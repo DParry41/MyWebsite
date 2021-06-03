@@ -1,0 +1,102 @@
+.body {
+    background-image: url("./images/YT\ Banner.jpg");
+    padding: 50px;
+    margin: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+navbar {
+    display: flex;
+    height: 60px;
+    flex-direction: row;
+    background-color: ivory;
+    border: red;
+    border-radius: 5px;
+    padding: 20px;
+    justify-content: space-evenly;
+}
+
+navbar li {
+    font-size: 28px;
+    background-color:  royalblue;
+
+}
+
+wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+#banner {
+    width:900px;
+    height:auto;
+}
+
+#ylink {
+    width:100px;
+}
+
+#profile pic {
+    width:50px;
+}
+
+#about {
+    width:5px;
+}
+
+
+* {
+    text-emphasis-color: black;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.large { 
+    font-size: 28px; 
+   }
+
+#header1 {
+    font-size: 46px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+* { 
+    background-color: lightgray; 
+    font-size: 22px; 
+   }
+
+h2 {
+    color: black
+}
+
+.about { 
+    background-color: firebrick; 
+   }
+
+.center { 
+    text-align: center; 
+   }
+
+.large { 
+    font-size: 50px; 
+   }
+
+    .margin {
+    width: auto;
+    }
+
+#para1 { 
+    color: black; 
+   }
+
+img { 
+    width: 100%; 
+   }
+
+#para1 {
+    display: flex;
+    justify-content: center;
+}
+
+
